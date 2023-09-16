@@ -18,9 +18,9 @@ Please note that this project is focused on the design aspect, and the developme
 2 - Wireframe for the register 
 [Wireframe register](https://www.figma.com/file/VqFZQjDXzUew6KOyzEX5Hj/Wireframe-1?type=design&node-id=0%3A1&mode=design&t=nlLR5dQMH695Bm30-1)
 
-1 - Mockup  for the guest 
+3 - Mockup  for the guest 
 [Mockup guest](https://www.figma.com/file/Ij7uaJfCP3iKFtN0c18MjC/Untitled?type=design&node-id=0%3A1&mode=design&t=BC5xOVnZx5lQj2n0-1)
 
-1 - Mockup for the register 
+4 - Mockup for the register 
 [Mockup register](https://www.figma.com/file/SOEkGHCPnmSMu25wunsTFt/Untitled?type=design&node-id=0%3A1&mode=design&t=wJ50SYipzeF6m8wm-1)
 
